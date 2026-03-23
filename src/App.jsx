@@ -1,5 +1,5 @@
-import { navbar } from "./Navbar";
-import { footer } from "./footer";
+import { Navbar } from "./Navbar";
+import { Footer } from "./Footer";
 
 function App() {
   return (
