@@ -1,4 +1,4 @@
-export const Navbar = () => {
+export const navbar = () => {
   return (
     <nav className="navbar">
       <h1>My Navbar</h1>

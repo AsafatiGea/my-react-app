@@ -1,17 +1,17 @@
-import { Navbar } from "./Navbar";
-import { Footer } from "./Footer";
+import { navbar } from "./Navbar";
+import { footer } from "./Footer";
 
 function App() {
   return (
     <>
-      <Navbar />
+      <navbar />
 
       <main>
         <h1>Welcome Asafati 🔥</h1>
         <p>Ini project pertama saya</p>
       </main>
 
-      <Footer />
+      <footer />
     </>
   );
 }

@@ -1,4 +1,4 @@
-export const Footer = () => {
+export const footer = () => {
   return (
     <footer className="footer">
       <ul>
