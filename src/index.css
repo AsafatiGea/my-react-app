@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+}
+
+#root {
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.navbar {
+  background: #333;
+  color: white;
+  padding: 10px;
+}
+
+.footer {
+  background: #222;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
